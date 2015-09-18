@@ -40,7 +40,7 @@ To use this library simple declare a RatioLayout in your layout file like this:
             android:layout_height="match_parent"
             android:contentDescription="User photo"/>
 
-    </com.fisheradelakin.material.RatioLayout>
+</com.fisheradelakin.material.RatioLayout>
 
 ```
 and in your activity or fragment, you can gain access to the layout using: 
