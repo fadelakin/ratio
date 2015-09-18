@@ -3,9 +3,9 @@
 Ratio is a small library that fits your image into an imageview without cropping or stretching the image while still maintaining the aspect ratio of the image. 
 
 ## Gradle Dependency
+[![Release](https://img.shields.io/badge/jitpack-v0.1.0-blue.svg)](https://jitpack.io/#fadelakin/ratio)
 
 ### Repository
-[![Release](https://img.shields.io/badge/jitpack-v0.1.0-blue.svg)](https://jitpack.io/#fadelakin/ratio)
 
 First, add the following to your app's `build.gradle` file:
 
