@@ -2,7 +2,25 @@
 
 Ratio is a small library that fits your image into an imageview without cropping or stretching the image while still maintaining the aspect ratio of the image. 
 
-## How to use
+### Repository
+
+First, add the following to your app's `build.gradle` file:
+
+```Gradle
+repositories {
+    maven { url "https://jitpack.io" }
+}
+```
+
+Then to add Ratio to your dependency list:
+
+```Gradle
+dependencies {
+    compile 'com.github.fadelakin:ratio:0.1.0'
+}
+```
+
+### How to use
 
 To use this library simple declare a RatioLayout in your layout file like this:
 
