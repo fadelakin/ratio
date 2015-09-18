@@ -29,7 +29,7 @@ To use this library simple declare a RatioLayout in your layout file like this:
 
 ```xml
 
-<com.fisheradelakin.material.RatioLayout
+<com.fisheradelakin.ratio.RatioLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:ratio="1">
