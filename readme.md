@@ -6,6 +6,8 @@ Ratio is a small library that fits your image into an imageview without cropping
 
 First, add the following to your app's `build.gradle` file:
 
+[![Release](https://img.shields.io/badge/jitpack-v0.1.0-blue.svg)](https://jitpack.io/#fadelakin/ratio)
+
 ```Gradle
 repositories {
     maven { url "https://jitpack.io" }
