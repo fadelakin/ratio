@@ -7,19 +7,13 @@ Ratio is a small library that fits your image into an imageview without cropping
 
 ### Repository
 
-First, add the following to your app's `build.gradle` file:
+#### Note: Make sure you have jCenter() as your library source in your project's `build.gradle`. All projects created in Android Studio by default use jCenter() so I don't think you have to worry about that. 
 
-```Gradle
-repositories {
-    maven { url "https://jitpack.io" }
-}
-```
-
-Then to add Ratio to your dependency list:
+Add Ratio to your dependency list in your app's `build.gradle` file:
 
 ```Gradle
 dependencies {
-    compile 'com.github.fadelakin:ratio:0.1.0'
+    compile 'com.fisheradelakin.ratio:ratio:0.1.0'
 }
 ```
 
