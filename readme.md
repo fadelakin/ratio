@@ -7,7 +7,7 @@ Ratio is a small library that fits your image into an imageview without cropping
 
 ### Repository
 
-** Note: Make sure you have jCenter() as your library source in your project's `build.gradle`. All projects created in Android Studio by default use jCenter() so I don't think you have to worry about that. **
+**Note: Make sure you have jCenter() as your library source in your project's `build.gradle`. All projects created in Android Studio by default use jCenter() so I don't think you have to worry about that.**
 
 Add Ratio to your dependency list in your app's `build.gradle` file:
 
